@@ -27,7 +27,7 @@ export default function Homepage(){
         <div className={styles.homepage}>
             <Navbar/>
             <h1 className={styles.title}> ยินดีต้อนรับเข้าสู่เว็บไซต์ของเรา </h1>
-            <h1 className={styles.title}> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
+            <h1 className={styles.title}> ยินดีต้อนรับเข้าสู่เว็บไซต์</h1>
             <img src= "/picture/home.png" alt="Home image" className={styles.image}/>
         </div>
         
